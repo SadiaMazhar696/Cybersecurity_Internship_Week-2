@@ -1,4 +1,3 @@
-<img width="1364" height="767" alt="pm5 ss1" src="https://github.com/user-attachments/assets/02b25781-4469-4c53-be9f-9351c7e77980" /><img width="1364" height="667" alt="ss1" src="https://github.com/user-attachments/assets/283115ce-b5c9-4166-862e-befdd984fb1e" /># Cybersecurity_Internship_Week-2
 Practical labs and reconnaissance exercises completed during Week 2 of my Cybersecurity Internship at Networkwalks, covering OSINT, passive/active reconnaissance, and network scanning.
 # Cybersecurity Internship – Week 2: Reconnaissance & Network Scanning
 This repository documents the practical labs and exercises I completed during Week 2 of my Cybersecurity Internship with Networkwalks. Throughout the week, I progressed step-by-step from setting up my testing environment to performing passive OSINT, command-line reconnaissance, and active local network scanning.
